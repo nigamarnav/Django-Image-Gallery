@@ -1,2 +1,6 @@
 # Django-Image-Gallery
-Multiple image upload and view using Django
+The project contain one route :
+
+* /myapp/detail/home
+
+This is the demo for adding multiple images with title and description using Modelform.
